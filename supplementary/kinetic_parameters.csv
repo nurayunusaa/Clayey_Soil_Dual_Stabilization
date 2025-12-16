@@ -1,0 +1,4 @@
+Material,Model,k_p_day,EA_kJ_mol,Time_50Rho_days
+Wood Ash,Jander,0.003,75,60
+Fly Ash,Jander,0.004,70,55
+Silica Fume,Avrami,0.015,45,25
